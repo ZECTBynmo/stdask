@@ -1,6 +1,6 @@
 { 
   "name": "stdask",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Mike Vegeto <michael.vegeto@gmail.com>",
   "description": "A simple way to ask the user for command line input",
   "main": "./stdask",
