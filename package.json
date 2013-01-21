@@ -1,0 +1,11 @@
+{ 
+  "name": "stdask",
+  "version": "0.0.2",
+  "author": "Mike Vegeto <michael.vegeto@gmail.com>",
+  "description": "A simple way to ask the user for command line input",
+  "main": "./stdask",
+  "engines": { "node": ">=0.8.0" },
+  "keywords": [ "ask", "stdin", "stdout", "command line", "input" ],
+  "licenses": [ { "type": "MIT", "url": "http://raw.github.com/ZECTBynmo/stdask/master/LICENSE" } ],
+  "repository": { "type": "git", "url": "http://github.com/ZECTBynmo/stdask.git" }
+}
